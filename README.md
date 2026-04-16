@@ -1,5 +1,5 @@
 # About Me:
-DSA<br>Cybersecurity<br>Game Dev<br>Video Editing 
+DSA<br>Cybersecurity<br>Video Editing 
 
 
 ## Socials:
